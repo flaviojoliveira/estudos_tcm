@@ -2,9 +2,9 @@
 
 **Conteúdo**
 
-- [x] Laboratório 01 - Função de Transferência
-- [x] Laboratório 01 - PID
-- [x] Laboratório 02 - PID Ziegler
+- [x] Laboratório  - Função de Transferência
+- [x] Laboratório  - PID
+- [x] Laboratório - PID Ziegler
 
 
 
