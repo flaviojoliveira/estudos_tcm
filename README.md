@@ -5,6 +5,7 @@
 - [x] Laboratório  - Função de Transferência
 - [x] Laboratório  - PID
 - [x] Laboratório - PID Ziegler
-
+- [x] Laboratório - Scilab Primeira Ordem
+- [x] Laboratório - Scilab Segunda Ordem
 
 
