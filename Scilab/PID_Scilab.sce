@@ -23,4 +23,6 @@ axis square
 
 line([0 max(t)],[1 1],'Color','b','LineStyle','--')
 
+clear
+
 

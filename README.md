@@ -7,5 +7,6 @@
 - [x] Laboratório - PID Ziegler
 - [x] Laboratório - Scilab Primeira Ordem
 - [x] Laboratório - Scilab Segunda Ordem
+- [x] Laboratório - Scilab Bôdi
 
 
